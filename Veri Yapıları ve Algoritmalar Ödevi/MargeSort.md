@@ -11,5 +11,4 @@
 ```
 
 # 2. Soru [16,21,11,8,12,22] dizinin Big-O gösterimini yazınız.
-## Big-O 
 O(n*logn)
